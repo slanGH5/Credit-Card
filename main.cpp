@@ -1,10 +1,4 @@
-//
 //  main.cpp
-//  Project 5
-//
-//  Created by Jessica Chen on 7/29/19.
-//  Copyright © 2019 Jessica Chen. All rights reserved.
-//
 
 #include <iostream>
 #include <string>
