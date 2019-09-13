@@ -1,10 +1,4 @@
-//
 //  RewardCenter.hpp
-//  Project 5
-//
-//  Created by Jessica Chen on 8/4/19.
-//  Copyright © 2019 Jessica Chen. All rights reserved.
-//
 
 #ifndef REWARDCENTER_HPP
 #define REWARDCENTER_HPP
