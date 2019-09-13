@@ -18,3 +18,4 @@ private:
     double totalSpend(CATEGORY) const;
     void clearSpending();
 ```
+See test asserts in the main.cpp for how these member functions should be implemented.
