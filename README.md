@@ -11,7 +11,6 @@ Creating a class `CreditCard`, with the following member functions:
     
  `public:
     enum CATEGORY {GAS, DINING, TRAVEL, GROCERY, ALLELSE};
-    
     CreditCard();
     void payFor(double, CATEGORY); 
     double totalSpend() const;
