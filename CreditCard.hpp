@@ -1,17 +1,11 @@
-//
 //  CreditCard.hpp
-//  Project 5
-//
-//  Created by Jessica Chen on 7/31/19.
-//  Copyright © 2019 Jessica Chen. All rights reserved.
-//
 
 #ifndef CREDITCARD_HPP
 #define CREDITCARD_HPP
 
 class CreditCard
 {
-private:                                                    //private class members cannot be accessible outside of the class
+private:                          //private class members cannot be accessible outside of the class
     double gasSpending;
     double diningSpending;
     double travelSpending;
